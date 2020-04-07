@@ -2,6 +2,8 @@
 
 ## Running the analysis software
 
+People should ensure that everything works roughly a week in advance.
+
 ### Option 1: X-forwarding
 
 Need instructions for linux-based, MacOS and Windows systems.
