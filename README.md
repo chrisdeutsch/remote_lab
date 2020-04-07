@@ -13,7 +13,6 @@ MacOS: Install XQuartz?
 Windows: ???
 
 
-
 ### Option 2: Virtual Machine
 
 
@@ -25,8 +24,6 @@ Ways to talk & share your screen:
 
 ## Oral exam
 
-
+Ways to sketch things (anything goes really, just some recommendations):
 * [Xournal++](https://github.com/xournalpp/xournalpp)
 * Paint?
-
-
