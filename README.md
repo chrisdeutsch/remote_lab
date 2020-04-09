@@ -17,6 +17,11 @@ Windows: ???
 
 ### Option 2: Virtual Machine
 
+[VirtualBox](https://www.virtualbox.org/)
+
+
+![VirtualBox Downloads](screenshots/vbox_download.png)
+
 
 ## Collaborating with your lab partner
 
@@ -29,3 +34,6 @@ Ways to talk & share your screen:
 Ways to sketch things (anything goes really, just some recommendations):
 * [Xournal++](https://github.com/xournalpp/xournalpp)
 * Paint?
+
+
+##
