@@ -29,7 +29,7 @@ Ways to talk & share your screen:
 * DFN [link](https://www.conf.dfn.de/)
 * Skype
 
-# Using skype to collaborate with your lab partner
+### Using skype to collaborate with your lab partner
 To install Skype, follow [link](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
 
 Keeping the fact the lab students and tutor have a Skype app already installed  on their respective devices/laptops and have an account , the easiest way  to collaborate will be to create a Skype group with name of the chat group set as the group name, for e.g: “E213: PXX”.
@@ -46,7 +46,7 @@ d. The students should mutually agree between each other in presence of the tuto
 
 e. To end the lab session for the day, the students can simply message the tutor for a group call and discuss the strategy for the next day.
 
-# Using skype for oral exam:
+### Using skype for oral exam:
 
 a. The oral exam will be conducted separately for each student of the lab course (for a period of 30 minutes?).
 The tutor will separately notify the students regarding their individual time slot.
