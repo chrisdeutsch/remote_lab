@@ -32,7 +32,7 @@ Ways to talk & share your screen:
 ### Using skype to collaborate with your lab partner
 To install Skype, follow [link](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
 
-Keeping the fact the lab students and tutor have a Skype app already installed  on their respective devices/laptops and have an account , the easiest way  to collaborate will be to create a Skype group with name of the chat group set as the group name, for e.g: “E213: PXX”.
+Keeping the fact that students and tutor have a Skype app already installed  on their respective devices/laptops and have a Skype account, the easiest way  to collaborate will be to create a Skype group with name of the chat group set as the group name, for e.g: “E213: PXX”.
 
 a. The students should send in their Skype id’s to the tutor before the scheduled lab date, so that the tutor can make a Skype group and add both the students. The tutor will initiate the group call at the scheduled lab time, predecided by the students and the tutor, and will explain/ instruct the students about the lab course/ tasks that they have to perform on the day and any instructions in general. 
 
@@ -53,7 +53,7 @@ The tutor will separately notify the students regarding their individual time sl
 
 b. The tutor  will contact the student on their respective time slot, and will conduct the oral exam. This will be via a video chat
 
-c. To conduct a fair exam, the students should give a scan of the room/place they are sitting so as to ensure the tutor that no unforeseen cheating material is used...(while I know this does nt make sense ;))
+c. To conduct a fair exam, the students should give a scan of the room/place they are sitting so as to ensure the tutor that no unforeseen cheating material is used...(while I know this does'nt make sense ;))
 
 d. If the oral exam requires the student to draw something, they can use the Paint app (?), open it on their screens, start the screen sharing option and draw/represent accordingly whatever is asked by the tutor.
 
