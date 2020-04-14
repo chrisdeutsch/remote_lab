@@ -32,7 +32,7 @@ page](https://www.virtualbox.org/wiki/Downloads).
 
 ![VirtualBox Downloads](screenshots/vbox_download.png)
 
-You can download the ATLAS & Z0 appliance [here (4.6
+You can download the ATLAS & Z0 appliance [here (4.2
 GB)](https://uni-bonn.sciebo.de/s/t3IsIU8bMMWik7Q).
 
 #### Setting up the appliance
