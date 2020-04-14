@@ -21,6 +21,8 @@ you can login to the provided services of the university.
 
 #### Windows
 
+TODO: To be filled by Martin
+
 #### Linux
 
 Any Linux system should come preinstalled with a SSH client. To log in to the PI
@@ -42,7 +44,7 @@ This tutorial is tested in a MacBook Air 2017 with 10.15 Catalina setup, but the
 same structure should work for virtually any version. Two software tools are
 necessary for establishing a working connection:
 
-1. Terminal: Terminal is already an integral part of your MacBook. You can
+1. **Terminal:** Terminal is already an integral part of your MacBook. You can
    access to it via searching for “Terminal” at the search. It looks like a
    black rectangular icon.
    
@@ -54,11 +56,12 @@ text based interface itself but it can be used to access to graphical display
 tools. For our experiment we also need to be able to open images and plots we
 have drawn. This brings us to second tool we need, Xquartz.
 
-2. Xquartz: Xquartz is the official X Server for the mac OS. This tool is needed
-   to give the Terminal capability to work with graphical file formats such as
-   images or GUIs. Unlike Terminal, Xquartz does not come as an integral part of
+2. **XQuartz:** XQuartz is a X-Server for the mac OS. This tool is needed to
+   give the Terminal capability to work with graphical file formats such as
+   images or GUIs. Unlike Terminal, XQuartz does not come as an integral part of
    MacBook OS, so you need to download and install it. It can be downloaded from
-   here: [XQuartz](https://www.xquartz.org)
+   here: [XQuartz](https://www.xquartz.org). Make sure to start XQuartz before
+   initiating the ssh connection.
 
 
 **Login and work:**
@@ -171,22 +174,21 @@ the data you need for the report off the VM.
 
 ## Collaborating with your lab partner
 
-### Using skype to collaborate with your lab partner
-To install Skype, follow [link](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
+We are recommending to use Skype to collaborate with your lab partner and
+communicate with the supervising tutor. To install Skype, follow
+[link](https://www.skype.com/en/get-skype/download-skype-for-desktop/).
 
-Keeping the fact that students and tutor have a Skype app already installed on
-their respective devices/laptops and have a Skype account, the easiest way to
-collaborate will be to create a Skype group with name of the chat group set as
-the group name, for e.g: “E213: PXX”.
+The easiest way to collaborate will be to create a Skype group with name of the
+chat group set as the group name, for e.g: “E213: PXX”.
 
-a. The students should send in their Skype id’s to the tutor before the
-scheduled lab date, so that the tutor can make a Skype group and add both the
-students. The tutor will initiate the group call at the scheduled lab time,
-predecided by the students and the tutor, and will explain/ instruct the
-students about the lab course/ tasks that they have to perform on the day and
-any instructions in general.
+1. The students should send in their Skype IDs to the tutor before the scheduled
+lab date, so that the tutor can make a Skype group and add both the students.
+The tutor will initiate the group call at the scheduled lab time, predecided by
+the students and the tutor, and will explain / instruct the students about the
+lab course / tasks that they have to perform on the day and any instructions in
+general.
 
-b. This skype group is only for collaboration/ discussion among the students
+2. This skype group is only for collaboration / discussion among the students
 while doing the lab course, for e.g. if the two students need to discuss
 something, share some plots etc. This can be effectively done via the screen
 sharing option whose symbol is displayed while doing a group call and of course
@@ -195,36 +197,19 @@ they can send some plots etc. inside the normal chat also.
 For screen sharing: follow [link](
 https://support.skype.com/en/faq/FA34895/screen-sharing-in-skype)
 
-c. If the students also want the tutor to join the call, to report/ clarify or
+3. If the students also want the tutor to join the call, to report / clarify or
 show them the progress, they can simply just leave a message on the group to
 notify the tutor so that they can join/ initiate the call on time (For this the
 tutors should be available online on Skype for most of the time during the day,
 the lab is conducted).
 
-d. The students should mutually agree between each other in presence of the
+4. The students should mutually agree between each other in presence of the
 tutor (before the actual lab session starts) about the tasks they want to split,
 so that they can simultaneously work on these tasks and discuss among each other
-or with the tutor as described in point b and c respectively.
+or with the tutor as described in point 2 and 3 respectively.
 
-e. To end the lab session for the day, the students can simply message the tutor
+5. To end the lab session for the day, the students can simply message the tutor
 for a group call and discuss the strategy for the next day.
-
-### Using skype for oral exam:
-
-a. The oral exam will be conducted separately for each student of the lab course
-(for a period of 30 minutes?). The tutor will separately notify the students
-regarding their individual time slot.
-
-b. The tutor will contact the student on their respective time slot, and will
-conduct the oral exam. This will be via a video chat
-
-c. To conduct a fair exam, the students should give a scan of the room/place
-they are sitting so as to ensure the tutor that no unforeseen cheating material
-is used...(while I know this does'nt make sense ;))
-
-d. If the oral exam requires the student to draw something, they can use the
-Paint app (?**, open it on their screens, start the screen sharing option and
-draw/represent accordingly whatever is asked by the tutor.
 
 ## Oral exam
 
@@ -235,12 +220,13 @@ needed for conducting the oral exams as well as communicating during the lab
 session. This basically requires a tool to communicate audiovisually, which we
 choose to be Skype for it is commonplace and free, as well as a tool to
 substitute for whiteboard, which we choose to use a free simple web-based
-program called Whiteboardfox.
+program called WhiteboardFox.
 
 In order to run this examination session as smooth as possible the following
 rules should be followed:
 
-* The whole setup should be tested before the time of examination, you can test it together with your partner.
+* The whole setup should be tested before the time of examination, you can test
+  it together with your partner.
 * Each lab member should be alone in a room, that is reasonably silent and well
   lit for tutors to be able to interact with you
 * The usual rules for cheating / plagiarism applies to remote examination as it
@@ -248,22 +234,24 @@ rules should be followed:
   Google etc will result in a failing grade and disciplinary action. If tutors
   doubt something is going on they might require further evidence and/or cancel
   the session until a safer setting is established.
+* The oral exam will be conducted separately for each student of the lab course
+  (30 - 45 minutes).
 
 
 **Tools needed:**
 
 1. Skype: Skype is a popular internet telecommunication program that can be used
-to make telephone/video calls over internet. It can be downloaded from
-https://www.skype.com/en/get-skype/download-skype-for-desktop/ . After the
-download you will have to signup and register. Skype offers premium paid
-features but for our purposes default free edition is enough. So you do not need
-to go for any paid options to conduct the experiment.
+to make telephone/video calls over internet. It can be downloaded from the
+[Skype Website](https://www.skype.com/en/get-skype/download-skype-for-desktop/).
+After the download you will have to signup and register. Skype offers premium
+paid features but for our purposes default free edition is enough. So you do not
+need to go for any paid options to conduct the experiment.
 
-2. Whiteboardfox: This is a web-based whiteboard app where tutors and students
+2. WhiteboardFox: This is a web-based whiteboard app where tutors and students
 can work together by drawing on a canvas realtime. The tutor will create a page
 and share the link with you so both sides can access to same canvas. You do not
 need to install any software to use whiteboardfox, just the browser. It is
-accessible from https://whiteboardfox.com/
+accessible from [WhiteboardFox](https://whiteboardfox.com/).
 
 
 ## Preparation for the oral exam / lab session
