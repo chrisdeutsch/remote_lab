@@ -1,8 +1,13 @@
 # Instructions for remote laboratory courses (ATLAS & Z0)
 
-## Running the analysis software
+These are some basic instructions to guiding you to perform the ATLAS and Z0
+laboratory courses. Please contact the tutors responsible for your experiment if
+you have any questions or need clarifications.
 
-People should ensure that everything works roughly a week in advance.
+Also ensure that you have a functioning setup about a week in advance of the lab
+course date.
+
+## Running the analysis software
 
 ### Option 1: X-forwarding
 
@@ -53,7 +58,7 @@ have drawn. This brings us to second tool we need, Xquartz.
    to give the Terminal capability to work with graphical file formats such as
    images or GUIs. Unlike Terminal, Xquartz does not come as an integral part of
    MacBook OS, so you need to download and install it. It can be downloaded from
-   here: [XQuartz](https://www.xquartz.org**
+   here: [XQuartz](https://www.xquartz.org)
 
 
 **Login and work:**
@@ -118,12 +123,6 @@ So the final command to copy the files should have a structure like:
 scp -r ooencel@desktop.physik.uni-bonn.de:/gpfs/share/home/ooencel/Public/Z0Exp/EventDisplay/ .
 ```
 
-Need instructions for linux-based, MacOS and Windows systems.
-
-
-Windows: ???
-
-
 ### Option 2: Virtual Machine
 
 You can use a virtual machine (VM) as an alternative in case X-forwarding does
@@ -175,30 +174,57 @@ the data you need for the report off the VM.
 ### Using skype to collaborate with your lab partner
 To install Skype, follow [link](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
 
-Keeping the fact that students and tutor have a Skype app already installed  on their respective devices/laptops and have a Skype account, the easiest way  to collaborate will be to create a Skype group with name of the chat group set as the group name, for e.g: “E213: PXX”.
+Keeping the fact that students and tutor have a Skype app already installed on
+their respective devices/laptops and have a Skype account, the easiest way to
+collaborate will be to create a Skype group with name of the chat group set as
+the group name, for e.g: “E213: PXX”.
 
-a. The students should send in their Skype id’s to the tutor before the scheduled lab date, so that the tutor can make a Skype group and add both the students. The tutor will initiate the group call at the scheduled lab time, predecided by the students and the tutor, and will explain/ instruct the students about the lab course/ tasks that they have to perform on the day and any instructions in general. 
+a. The students should send in their Skype id’s to the tutor before the
+scheduled lab date, so that the tutor can make a Skype group and add both the
+students. The tutor will initiate the group call at the scheduled lab time,
+predecided by the students and the tutor, and will explain/ instruct the
+students about the lab course/ tasks that they have to perform on the day and
+any instructions in general.
 
-b. This skype group is only for collaboration/ discussion among the students while doing the lab course, for e.g. if the two students need to discuss something, share some plots etc. This can be effectively done via the screen sharing option whose symbol is displayed while doing a group call and of course they can send some plots etc. inside the normal chat also. 
+b. This skype group is only for collaboration/ discussion among the students
+while doing the lab course, for e.g. if the two students need to discuss
+something, share some plots etc. This can be effectively done via the screen
+sharing option whose symbol is displayed while doing a group call and of course
+they can send some plots etc. inside the normal chat also.
 
-For screen sharing: follow [link]( https://support.skype.com/en/faq/FA34895/screen-sharing-in-skype)
+For screen sharing: follow [link](
+https://support.skype.com/en/faq/FA34895/screen-sharing-in-skype)
 
-c. If the students also want the tutor to join the call, to report/ clarify or show them the progress, they can simply just leave a message on the group to notify the tutor so that they can join/ initiate the call on time (For this the tutors should be available online on Skype for most of the time during the day,  the lab is conducted).
+c. If the students also want the tutor to join the call, to report/ clarify or
+show them the progress, they can simply just leave a message on the group to
+notify the tutor so that they can join/ initiate the call on time (For this the
+tutors should be available online on Skype for most of the time during the day,
+the lab is conducted).
 
-d. The students should mutually agree between each other in presence of the tutor (before the actual lab session starts) about the tasks they want to split, so that they can simultaneously work on these tasks and discuss among each other or with the tutor as described in point b and c respectively.
+d. The students should mutually agree between each other in presence of the
+tutor (before the actual lab session starts) about the tasks they want to split,
+so that they can simultaneously work on these tasks and discuss among each other
+or with the tutor as described in point b and c respectively.
 
-e. To end the lab session for the day, the students can simply message the tutor for a group call and discuss the strategy for the next day.
+e. To end the lab session for the day, the students can simply message the tutor
+for a group call and discuss the strategy for the next day.
 
 ### Using skype for oral exam:
 
-a. The oral exam will be conducted separately for each student of the lab course (for a period of 30 minutes?).
-The tutor will separately notify the students regarding their individual time slot.
+a. The oral exam will be conducted separately for each student of the lab course
+(for a period of 30 minutes?). The tutor will separately notify the students
+regarding their individual time slot.
 
-b. The tutor  will contact the student on their respective time slot, and will conduct the oral exam. This will be via a video chat
+b. The tutor will contact the student on their respective time slot, and will
+conduct the oral exam. This will be via a video chat
 
-c. To conduct a fair exam, the students should give a scan of the room/place they are sitting so as to ensure the tutor that no unforeseen cheating material is used...(while I know this does'nt make sense ;))
+c. To conduct a fair exam, the students should give a scan of the room/place
+they are sitting so as to ensure the tutor that no unforeseen cheating material
+is used...(while I know this does'nt make sense ;))
 
-d. If the oral exam requires the student to draw something, they can use the Paint app (?**, open it on their screens, start the screen sharing option and draw/represent accordingly whatever is asked by the tutor.
+d. If the oral exam requires the student to draw something, they can use the
+Paint app (?**, open it on their screens, start the screen sharing option and
+draw/represent accordingly whatever is asked by the tutor.
 
 ## Oral exam
 
