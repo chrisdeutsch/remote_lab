@@ -12,7 +12,7 @@ Linux: Should be straightforward.
 
 MacOS: Install XQuartz?
 
-Windows: ???
+Windows: Install PuTTY and VcXsrv
 
 
 ### Option 2: Virtual Machine
