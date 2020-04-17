@@ -87,10 +87,10 @@ Now lets copy the folder containing files needed for the *Z0 experiment* into ou
 Desktop folder:
 
 ```bash
-cp -r /gpfs/share/home/ooencel/Public/Z0Exp .
+cp -r /cephfs/user/ooencel/E213 .
 ```
 
-Please notice the space after Z0Exp before the dot. Now you should have the
+Please notice the space after E213 before the dot. Now you should have the
 folder on your own Desktop.
 
 For the *ATLAS experiment*, the tutor will provide you with a link to download the
@@ -118,12 +118,12 @@ cd Event Displays
 ```
 
 and now type `pwd` and click enter.
-You will get something like that: `/gpfs/share/home/ooencel/Public/Z0Exp/EventDisplay/`
+You will get something like that: `/cephfs/user/ooencel/E213/EventDisplay/`
 
 So the final command to copy the files should have a structure like: 
 
 ```bash
-scp -r ooencel@desktop.physik.uni-bonn.de:/gpfs/share/home/ooencel/Public/Z0Exp/EventDisplay/ .
+scp -r ooencel@desktop.physik.uni-bonn.de:/cephfs/user/ooencel/E213/EventDisplay/ .
 ```
 
 ### Option 2: Virtual Machine
