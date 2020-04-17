@@ -222,7 +222,7 @@ cd E213images
 
 Now you can copy the content to your local `E213images` folder with the command:
 ```bash
-pscp -r <my_user_id>@desktop.physik.uni-bonn.de:gpfs/share/home/<my_user_id>/	Desktop/E213/EventDisplay .
+pscp -r <my_user_id>@desktop.physik.uni-bonn.de:gpfs/share/home/<my_user_id>/Desktop/E213/EventDisplay .
 ```
 
 ![Example of the Z0 Lab](screenshots/xfwd_windows_z0_example_4.png)
