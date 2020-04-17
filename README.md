@@ -19,10 +19,6 @@ workstation in the university.
 First of all make sure you have a working Uni-ID from University of Bonn that
 you can login to the provided services of the university.
 
-#### Windows
-
-TODO: To be filled by Martin
-
 #### Linux
 
 Any Linux system should come preinstalled with a SSH client. To log in to the PI
@@ -125,6 +121,10 @@ So the final command to copy the files should have a structure like:
 ```bash
 scp -r ooencel@desktop.physik.uni-bonn.de:/cephfs/user/ooencel/E213/EventDisplay/ .
 ```
+
+#### Windows
+
+[Instructions for Windows](X_Forwarding_Windows.md)
 
 ### Option 2: Virtual Machine
 
