@@ -158,3 +158,71 @@ university desktop.
 ![Activate X-Forwarding 9](screenshots/xfwd_windows_activate_9.png)
 
 This concludes the setup necessary to be able to perform the lab remotely. If you want you can move on to the next step which explains how you can perform the lab remotely, or you can now exit the SSH session by typing “exit” in the console and pressing Enter.
+
+## Performing Lab E213: Z0Experiment
+
+These are instructions for how you can perform the E213 lab using X11 forwarding
+on a Windows.
+
+Every time you want to make an SSH connection to the University workstation you
+need to enavle X11 forwarding in “Connection→SSH→X11”. If you have restarted you
+computer you need to repeat the entire **Step 3: Activate X-Forwarding** in
+chapter **Setup**. That means you need to launch XLaunch before starting PuTTY.
+
+Once again you can use the command `ls` to view what is in your home directory.
+One of the things you should see is a directory named `Desktop`. We can move
+into this directory with the `cd` command. Simply type in `cd Desktop` and press
+Enter. Now we can copy the lab files into our Desktop directory by entering this
+command:
+```bash
+cp -r /cephfs/user/ooencel/E213 .
+```
+
+Here `cp` is the command for copy, `-r` is the option that we want to copy the
+entire folder, `/cephfs/user/ooencel/E213` is the folder we want to copy and `.`
+means that we want to copy it to the directory we are currently in (i.e.
+Desktop). Please note the space between `E213` and the dot.
+
+If you enter `ls` again you should now see that you have a directory named
+`E213` in you Desktop directory. You can now follow the instructions to perform
+the lab. You move between different directories using the command `cd`. To open
+an image file you use the command `evince` and the name of the file, for example
+`evince ee_1.pdf`.
+
+![Example of the Z0 Lab](screenshots/xfwd_windows_z0_example.png)
+
+However, it might be tedious to view all image files using the command `evince`.
+So it might be easier if you copy the directory with the image files named
+`EventDisplay` inside the `E213` directory to your local computer. We need to
+find the location of the `EventDisplay` directory on the University workstation.
+Move into the directory by entering `cd E213/EventDisplay`. Now enter the
+command `pwd` and you should see something like this:
+```bash
+/gpfs/share/home/<my_user_id>/Desktop/E213/EventDisplay
+```
+
+![Example of the Z0 Lab](screenshots/xfwd_windows_z0_example_2.png)
+
+To copy the content to your local computer you need to open the Command Prompt
+on your Windows. This can be done by entering `cmd` in the search bar of your
+computer. 
+
+![Example of the Z0 Lab](screenshots/xfwd_windows_z0_example_3.png)
+
+In the Command Prompt you can view the content of your current
+directory with the command “dir”. You can move into another directory with the
+command “cd” (same as in Linux). You can make a new directory using the command
+“mkdir” (same as in Linux). So let us move into our Desktop and create a new
+directory there.
+```bash
+cd Desktop
+mkdir E213images
+cd E213images
+```
+
+Now you can copy the content to your local `E213images` folder with the command:
+```bash
+pscp -r <my_user_id>@desktop.physik.uni-bonn.de:gpfs/share/home/<my_user_id>/	Desktop/E213/EventDisplay .
+```
+
+![Example of the Z0 Lab](screenshots/xfwd_windows_z0_example_4.png)
