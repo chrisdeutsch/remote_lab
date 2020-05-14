@@ -171,7 +171,8 @@ different version or operating system.
 ![Appliance Settings](screenshots/vbox_appliance_settings.png)
 ![VirtualBox Manager](screenshots/vbox_manager.png)
 ![Graphical Output](screenshots/vbox_appliance.png)
-
+![Atlantis](screenshots/vbox_atlantis.png)
+![ROOT](screenshots/vbox_zee_calibration.png)
 
 #### Getting data off the VM
 
