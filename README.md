@@ -124,6 +124,12 @@ scp -r ooencel@desktop.physik.uni-bonn.de:/cephfs/user/ooencel/E213/EventDisplay
 
 #### Windows
 
+We recommend using *Option 2: Virtual Machine* instead of X-forwarding on
+Windows due to the amount of configuration necessary to get X-forwarding to work
+under Windows systems.
+
+If you want to use X-forwarding on Windows we collected some basic instructions here:
+
 [Instructions for Windows](X_Forwarding_Windows.md)
 
 ### Option 2: Virtual Machine
