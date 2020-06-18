@@ -151,6 +151,8 @@ page](https://www.virtualbox.org/wiki/Downloads).
 
 You can download the ATLAS & Z0 appliance [here (4.2
 GB)](https://uni-bonn.sciebo.de/s/t3IsIU8bMMWik7Q).
+The login password for the VM is `bonn2020` in case you need it
+(you should be automatically logged in).
 
 #### Setting up the appliance
 
