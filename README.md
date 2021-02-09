@@ -183,42 +183,21 @@ the data you need for the report off the VM.
 
 ## Collaborating with your lab partner
 
-We are recommending to use Skype to collaborate with your lab partner and
-communicate with the supervising tutor. To install Skype, follow
-[link](https://www.skype.com/en/get-skype/download-skype-for-desktop/).
+We are recommending to use Zoom to collaborate with your lab partner. The Zoom
+portal of the University of Bonn can be found [here](https://uni-bonn.zoom.us/).
 
-The easiest way to collaborate will be to create a Skype group with name of the
-chat group set as the group name, for e.g: “E213: PXX”.
+The supervising tutor will create a room and send you the connection details.
 
-1. The students should send in their Skype IDs to the tutor before the scheduled
-lab date, so that the tutor can make a Skype group and add both the students.
-The tutor will initiate the group call at the scheduled lab time, predecided by
-the students and the tutor, and will explain / instruct the students about the
-lab course / tasks that they have to perform on the day and any instructions in
-general.
+1. Make sure you are familiar with and tested the screensharing and whiteboard
+   features of Zoom. This helps collaborating with your partner and is also
+   required for the oral exam.
+   [Sharing in Zoom](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-content-or-second-camera)
 
-2. This skype group is only for collaboration / discussion among the students
-while doing the lab course, for e.g. if the two students need to discuss
-something, share some plots etc. This can be effectively done via the screen
-sharing option whose symbol is displayed while doing a group call and of course
-they can send some plots etc. inside the normal chat also.
+2. If the students also want the tutor to join the call, to report / clarify or
+   show them the progress, you need to notify the supervising tutor via E-Mail or Skype.
 
-For screen sharing: follow [link](
-https://support.skype.com/en/faq/FA34895/screen-sharing-in-skype)
-
-3. If the students also want the tutor to join the call, to report / clarify or
-show them the progress, they can simply just leave a message on the group to
-notify the tutor so that they can join/ initiate the call on time (For this the
-tutors should be available online on Skype for most of the time during the day,
-the lab is conducted).
-
-4. The students should mutually agree between each other in presence of the
-tutor (before the actual lab session starts) about the tasks they want to split,
-so that they can simultaneously work on these tasks and discuss among each other
-or with the tutor as described in point 2 and 3 respectively.
-
-5. To end the lab session for the day, the students can simply message the tutor
-for a group call and discuss the strategy for the next day.
+3. To end the lab session for the day, the students can simply message the tutor
+   for a group call and discuss the strategy for the next day.
 
 ## Oral exam
 
@@ -227,9 +206,8 @@ before the whiteboard in the lab room where tutors and students interact face to
 face. Given the current attempt at remote execution of labs, a substitute is
 needed for conducting the oral exams as well as communicating during the lab
 session. This basically requires a tool to communicate audiovisually, which we
-choose to be Skype for it is commonplace and free, as well as a tool to
-substitute for whiteboard, which we choose to use a free simple web-based
-program called WhiteboardFox.
+choose to be Zoom. Zoom is already commonly used for lectures in Bonn so you should
+be famililar with its use.
 
 In order to run this examination session as smooth as possible the following
 rules should be followed:
@@ -243,24 +221,21 @@ rules should be followed:
   Google etc will result in a failing grade and disciplinary action. If tutors
   doubt something is going on they might require further evidence and/or cancel
   the session until a safer setting is established.
-* The oral exam will be conducted separately for each student of the lab course
-  (30 - 45 minutes).
+* The oral exam will be conducted with both students present and can take up to
+  2 hours to cover the required material.
 
 
 **Tools needed:**
 
-1. Skype: Skype is a popular internet telecommunication program that can be used
-to make telephone/video calls over internet. It can be downloaded from the
-[Skype Website](https://www.skype.com/en/get-skype/download-skype-for-desktop/).
-After the download you will have to signup and register. Skype offers premium
-paid features but for our purposes default free edition is enough. So you do not
-need to go for any paid options to conduct the experiment.
+1. Zoom: [Official Zoom Webpage](https://zoom.us/),
+   [Zoom Portal of the University of Bonn](https://uni-bonn.zoom.us/)
 
-2. WhiteboardFox: This is a web-based whiteboard app where tutors and students
-can work together by drawing on a canvas realtime. The tutor will create a page
-and share the link with you so both sides can access to same canvas. You do not
-need to install any software to use whiteboardfox, just the browser. It is
-accessible from [WhiteboardFox](https://whiteboardfox.com/).
+2. Any optional software that you would like to use to collaborate with your
+   partner. Zoom should be sufficient but we are not limiting you in what you
+   can use.
+
+3. Skype (optional): Can be useful to get in touch with your tutor. Response
+   times can be a little bit quicker compared to E-Mail.
 
 
 ## Preparation for the oral exam / lab session
@@ -269,35 +244,13 @@ This section describes the preparation for the oral exam and lab session and how
 the communication is going to take place during the execution of the lab.
 
 1. Checks to be done before the day of experiment
-    * Check with your partner that both of your Skype setups work. You can make
-      a call to each other and test the stability of connection, quality of
-      audio and video.
-       
-    * Check that you are able to access and use the Whiteboardfox. Go to
-      Whiteboardfox webpage and try to make some simple drawing such as
-      geometrical shapes, add some text, change the color (double click on draw
-      to see color options), erase what you drew. You should also try to share
-      your canvas with your partner (options->Share) to make sure sharing
-      facility works for both of you.
+    * Check with your partner that both of your Zoom setups work. You can join a
+      room together and check the stability of the connection, quality of
+      audio and video and the sharing features.
       
-    * Share your Skype IDs with your tutor and have theirs in return to make
-      sure the connection can be established on the day of lab.
+    * Check that the experimental setup (i.e. the 'virtual machine' or
+      'X-forwarding' - depending on your choice) works properly.
       
-    * A powerful tool that can be used is the screenshare feature of Skype which
-      can help tutor to understand your problem and/or to describe an issue. You
-      can try and learn how to screenshare as a part of your preparation and
-      test it with your partner over Skype call. Information on screensharing
-      can be found here:
-      https://support.skype.com/en/faq/FA34895/screen-sharing-in-skype
-
 2. Communication During The Lab Session
     * The tutors will be available during the conduction of lab session for your
-      questions and requests for help. This can be achieved with a Skype group
-      consistent of students and the tutors. The tutor will setup a Skype group
-      at the beginning of lab time.
-      
-    * Students can also have their own 1-to-1 private Skype chat for their
-      collaboration where they do not need to consult something to the tutor.
-    
-    * Your tutor will be available and monitoring their Skype messages during
-      the duration of lab session.
+      questions and requests for help. You can contact the tutor via E-Mail or Skype.
